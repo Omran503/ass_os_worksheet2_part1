@@ -1,0 +1,5 @@
+default=0
+timeout=0
+title Tiny OS with C (Submitted by Omran)
+kernel /boot/kernel.elf
+

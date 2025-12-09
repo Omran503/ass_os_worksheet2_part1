@@ -1,0 +1,5 @@
+default=0
+timeout=0
+title Tiny OS with Framebuffer (Submitted By Omran)
+kernel /boot/kernel.elf
+
